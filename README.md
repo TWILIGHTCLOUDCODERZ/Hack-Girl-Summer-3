@@ -7,7 +7,7 @@
 &emsp;&emsp;In our project we are addressing how AI  helps to solve modern world problem specially healthcare and save time and energy for pregnant women, Grannies, Veterans.
 
 ## Tools Used
-
+![4](https://user-images.githubusercontent.com/101945531/188301259-08660693-88fd-4840-81f3-05cafcebce1a.jpg)
 
 <li>**Twilio**</li>
 <li>**Microsoft Power Virtual Agent**</li>
@@ -18,9 +18,9 @@
 <li>**Github**</li>
 
 ## Test Our Live APP
-
+![5](https://user-images.githubusercontent.com/101945531/188301280-5be20f41-fad6-402c-9493-d3a40bd55d36.jpg)
 <li>**Github:-**</li>
-&emsp;&emsp;The site has been hosted in Github which includes project repository-[WebviewLink](https://github.com/TWILIGHTCLOUDCODERZ/Garuda-Hacks-3.0.git).
+&emsp;&emsp;The site has been hosted in Github which includes project repository-[WebviewLink](https://twilightcloudcoderz.github.io/Hack-Girl-Summer-3/).
 
 ## What it does
 
@@ -61,11 +61,8 @@ Application is built using java,html,css3,and data stored in shared point.
 &emsp;&emsp;Integrating Twilio with Powerflow but solved by researching through youtube videos and docs available through community forums.
 
 ## Accomplishments that we're proud of
-
+![3](https://user-images.githubusercontent.com/101945531/188301331-9ac9e3fb-0019-4528-b555-6e403d9edab2.jpg)
 &emsp;&emsp;Learn't about AI feature and Data Analytics.
 
-## What's next for AI Bot.
-Need to explore more about Twilio and integration with other platforms like cloud service Azure, Aws.
-
 ## What's next for HEALTH CARE BOT AND DATA ANALYTICS
-need to integrate with other azure services
+Need to explore more about Twilio and integration with other platforms like cloud service Azure, Aws.
